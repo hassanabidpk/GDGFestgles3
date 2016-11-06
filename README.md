@@ -1,4 +1,4 @@
-GDGFestgles3 - A sample app for trying out Camke build tool
+GDGFestgles3 - A sample app for trying out CMake build tool
 =====================================
 
 Tutorial
